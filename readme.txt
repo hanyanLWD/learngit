@@ -1,5 +1,5 @@
-test conflict1!!!!!!!!!!!!
+test conflict
 test new branch
 hanyan
-liwandong!!!!
+liwandong
 yongchao
